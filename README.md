@@ -6,4 +6,5 @@ Meu nome é Vitória Chaieny
 -Estou_me desenvolvendo na linguagem JavaScript 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-https://tenor.com/WejR.gif
+![image](https://github.com/user-attachments/assets/9c5e8ce7-ccde-4467-a274-d4075da637ac)
+
